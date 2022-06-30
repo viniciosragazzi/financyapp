@@ -9,9 +9,9 @@ Projeto de um dashboard capaz de salvar resgistros de fluxo de caixa.
 
 ##### Em breve:
 
-⋅⋅* Barra de Pesquisa
-⋅⋅* Filtros
-⋅⋅* Relatórios em PDF
-⋅⋅* ...
+* Barra de Pesquisa
+* Filtros
+* Relatórios em PDF
+* ...
 
 Visite: https://financyapp.vercel.app
